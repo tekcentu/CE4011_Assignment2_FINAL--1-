@@ -42,13 +42,3 @@ This note summarizes how the code package aligns with the homework requirements 
   - displacement vector D
   - equilibrium / residual checks
 
-## Remaining small notes
-
-- The matrix-class design is more pragmatic than fully abstract; it does not use a common `BaseMatrix` ABC. This is acceptable for submission, but it can be mentioned honestly in the report as a future improvement.
-- The included UML is in HTML form. Exporting 1–2 screenshots into the written report may make grading easier.
-
-## Recommended submission package contents
-
-- source code zip (this cleaned version)
-- written report / PDF
-- UML diagrams (already included here as HTML)
